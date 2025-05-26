@@ -1,0 +1,5 @@
+{
+  "name": "AI Leadership Lab & Action Framework",
+  "description": "An educational app guiding users through the phases of AI adoption and transformation, inspired by the 'Making AI Work' framework. Includes interactive AI-powered advice using Gemini.",
+  "requestFramePermissions": []
+}
