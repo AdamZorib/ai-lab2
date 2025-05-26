@@ -26,8 +26,10 @@
     "App.tsx",
     "types.ts",
     "constants.tsx",
-    "components",
-    "services"
+    "components/**/*.tsx",
+    "services/**/*.ts"
+
+    
     // Add other .ts/.tsx files/folders if they are outside these patterns
   ],
   "references": [{ "path": "./tsconfig.node.json" }],
